@@ -387,9 +387,9 @@ nav ul li a:hover {
   height: 100%;
 }
 .product-articles article h2 {
-  font-family: notable;
-  font-size: 18px;
-  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 28px;
+  letter-spacing: 1px;
   padding-bottom: 10px;
 }
 .product-articles article p {
@@ -440,6 +440,9 @@ nav ul li a:hover {
 }
 .aside-products-box li {
   list-style: none;
+  font-size: 15px;
+  font-family: notable;
+  text-align: center;
 }
 .aside-products-box li a img {
   width: 100%;
@@ -573,6 +576,10 @@ th {
 .price-aside li {
   list-style: none;
   padding-bottom: 10px;
+  font-size: 15px;
+  font-family: notable;
+  text-align: center;
+
 }
 .price-aside li a img {
   border-radius: 5px;
@@ -703,6 +710,9 @@ th {
 .contact-aside li {
   list-style: none;
   padding-bottom: 10px;
+  font-size: 15px;
+  font-family: notable;
+  text-align: center;
 }
 .contact-aside li a img {
   border-radius: 5px;
